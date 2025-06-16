@@ -39,7 +39,7 @@ We stay lightweight and fast:
 ### 🧠 Features We’re Proud Of
 
 | Feature              | Description |
-|----------------------|------------|-------------|
+|----------------------|-------------|
 | 🕹️ Unblocked Games   | Play your faves, no school filters |
 | 🧪 Tab Cloaking       | Sneaky features to mask the tab |
 | 🧼 Clean UI           | Minimal, fast, and animated |
