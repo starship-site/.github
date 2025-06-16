@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=AE54FF&center=true&width=435&lines=Looking+awesome!+%E2%9C%A8;We+use+HTML%2C+CSS%2C+and+JavaScript.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Follow+us!+%F0%9F%91%A4;Star+the+website's+repo!+%E2%AD%90;Check+out+our+website!+%F0%9F%8C%90;starship.global.ssl.fastly.net" alt="Typing SVG" />
+<img src="https://jbekjmsruiadbhaydlbt.supabase.co/storage/v1/object/public/avatars/f67b48f8-a255-4152-a4fe-283188242947.png" alt="Starship Logo" width="200"/>
 
 # 👋 Hey, we're @starship-site
 
 **Your gateway to unblocked games, stealth tools, and smooth, next-gen browsing.**  
 We make online freedom *fun*, fast, and beautifully built.
 
-[![Website](https://img.shields.io/badge/Visit%20Website-%F0%9F%8C%90%20starship.global.ssl.fastly.net-blueviolet?style=for-the-badge)](https://starship.global.ssl.fastly.net)
+[![Website](https://img.shields.io/badge/Visit%20Website-%F0%9F%8C%90%20starship--app.com-blueviolet?style=for-the-badge)](https://starship-app.com)
+
 [![GitHub](https://img.shields.io/badge/powered%20by-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starship-site)
-[![Fastly](https://img.shields.io/badge/powered%20by-Fastly-black?style=for-the-badge&logo=fastly&logoColor=white)](https://www.fastly.com/)
 
 ---
 
@@ -60,6 +60,10 @@ Want to reach out? Feedback? Report bugs? Collaborate?
 
 ![Profile Views](https://komarev.com/ghpvc/?username=starship-site&style=for-the-badge&color=AE54FF&label=PROFILE+VIEWS)
 
+![Last Commit](https://img.shields.io/github/last-commit/starship-site/starship-site.github.io?style=for-the-badge&color=green)
+
+![Website](https://img.shields.io/website?url=https://starship-app.com&style=for-the-badge)
+
 ---
 
 ### ⚠️ Disclaimer
@@ -67,6 +71,7 @@ Want to reach out? Feedback? Report bugs? Collaborate?
 This platform is intended for **educational and recreational use** only. We do not promote bypassing institutional policies—use responsibly.
 
 ---
+![GitHub contributors](https://img.shields.io/github/contributors/starship-site/starship-site.github.io?style=for-the-badge&color=00bfff)
 
 ###### Made with 💖 by **Ryan Lamb & Tanner Ordonez**
 
